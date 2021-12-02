@@ -1,0 +1,23 @@
+[
+  {
+    "name":"sample",
+    "botsCount": 3,
+    "roundTime": 60,    
+    "botsName": [
+        "bob",
+        "IkillU",
+        "skaska",
+        "loser",
+        "yohoho",
+        "shpuntik"
+    ]
+  },
+  {
+    "name":"designer",
+    "botsCount": 0,
+    "roundTime": 600,    
+    "botsName": [
+        "bob"
+    ]
+  }
+]

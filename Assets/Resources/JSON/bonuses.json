@@ -1,0 +1,23 @@
+[
+    {
+        "name": "speed",
+        "duration": 4,
+        "factor": 1.5,  
+        "prefabPath": "Bonuses/bonus_speed"
+    },
+    {
+        "name": "shield",
+        "duration": 4,
+        "prefabPath": "Bonuses/bonus_shield_test"
+    },
+    {
+        "name": "vacuumCleaner",
+        "duration": 4,
+        "prefabPath": "Bonuses/"
+    },
+    {
+        "name": "instantReaction",
+        "duration": 4,
+        "prefabPath": "Bonuses/"
+    }
+]
